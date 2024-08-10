@@ -1,0 +1,4 @@
+if(temp>=23.78 and text=="123")//Just testing
+{
+    print("Its a good day");
+}
